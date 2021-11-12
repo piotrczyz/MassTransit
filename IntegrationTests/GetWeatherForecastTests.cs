@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
-using MassTransit;
 using MassTransit.Testing;
-using NUnit.Framework;
 using WebApi;
 using WebApi.Handlers;
 using Xunit;
